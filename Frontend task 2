@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>task 2</title>
+    <style>
+       img {
+           height:300px;
+           width:300px;
+      }
+      #center {
+        text-align:center;
+      }
+      p {
+          display:inline;
+      }
+      div img {
+          height:200px;
+          weight:200px;
+      }
+      button {
+        
+        border-end-start-radius:2px;
+        border:5px;
+        border-color:blue;
+
+
+      }
+      body {
+         
+        font-size:normal;
+         background-color: grey;
+         color:blanchedalmond;
+        
+
+      }
+      a {
+        text-decoration:underline;
+        text-decoration-color: blue;
+        color:white;
+
+      }
+      
+    </style>
+</head>
+<body>
+    <div id="center">
+    <img src="https://media.assettype.com/rajexpress%2F2023-04%2Fda63f0b0-fda5-498a-befd-f61f023fda43%2F1.jpg">
+    <h2>Chhatrapati Shivaji Maharaj</h2>
+    
+    
+    
+  </div>
+
+    <h2>Born:</h2>
+    <p>19 February 1630, Shivneri Fort, Kusur</p>
+    <h2>Died:</h2>
+    <p>3 April 1680 (age 50 years), Fort Raigad</p>
+    <P></P>
+    <h2>Shivaji Maharj</h2>
+    <p>Shivaji I (Shivaji Shahaji Bhonsale, Marathi pronunciation: [ʃiˈʋaːdʑiː ˈbʱos(ə)le]; c. 19 February 1630 – 3 April 1680)[5] was an Indian ruler and a member of the Bhonsle dynasty.[6] Shivaji carved out his own independent kingdom from the declining Adilshahi Sultanate of Bijapur that formed the genesis of the Maratha Confederacy. In 1674, he was formally crowned the Chhatrapati of his realm at Raigad Fort.[7]
+
+Throughout his life, Shivaji engaged in both alliances and hostilities with the Mughal Empire, the Sultanate of Golkonda, the Sultanate of Bijapur and the European colonial powers. Following the Battle of Purandar, Shivaji entered into vassalage with the Mughal empire, assuming the role of a Mughal chief and undertaking military expeditions on behalf of the empire for a brief duration.[8] Shivaji's military forces expanded the Maratha sphere of influence, capturing and building forts, and forming a Maratha navy. Shivaji established a competent and progressive civil administration with well-structured administrative institutions. He revived ancient Hindu political traditions, and court conventions and promoted the use of the Marathi and Sanskrit languages, replacing Persian at court and in administration.[7][9] Praised for his chivalrous treatment of women,[10] Shivaji employed people of all castes and religions, including Muslims[11] and Europeans, in his administration and armed forces.[12]
+
+Shivaji's legacy was to vary by observer and time, but nearly two centuries after his death he began to take on increased importance with the emergence of the Indian independence movement, as many Indian nationalists elevated him as a proto-nationalist, founder of the Swaraj movement, and hero of the Hindus.[13][14][15]</p>
+<h2>Early life
+</h2>
+<p>
+    Shivaji was born in the hill-fort of Shivneri, near Junnar, which is now in Pune district. Scholars disagree on his date of birth; the Government of Maharashtra lists 19 February as a holiday commemorating Shivaji's birth (Shivaji Jayanti).[a][22][23] Shivaji was named after a local deity, the Goddess Shivai Devi.[24][25]
+
+
+Shivneri Fort
+Shivaji belonged to a Maratha family of the Bhonsle clan.[26] Shivaji's father, Shahaji Bhonsle, was a Maratha general who served the Deccan Sultanates.[27] His mother was Jijabai, the daughter of Lakhuji Jadhavrao of Sindhkhed, a Mughal-aligned sardar claiming descent from a Yadav royal family of Devagiri.[
+</p>
+<div>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/MainEntranceGate.jpg/220px-MainEntranceGate.jpg">
+</div>
+<ul>
+    <li>
+      <a href="https://www.wikipedia.org/">Wikipedia</a>
+    </li>
+    <li>
+      <a href="https://hi.wikipedia.org/wiki/%E0%A4%B6%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%9C%E0%A5%80">Shivaji Maharaj</a>
+    </li>
+</ul>
+<button>Submit</button>
+
+</body>
+</html>
+
+
+
+
+
